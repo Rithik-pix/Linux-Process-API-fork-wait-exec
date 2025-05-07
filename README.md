@@ -45,9 +45,7 @@ int main() {
 ```
 ## OUTPUT
 
-![alt text](<../Screenshot at 2025-05-07 11-47-39.png>)
-
-
+![Screenshot 2025-05-07 214620](https://github.com/user-attachments/assets/de9016c5-7b75-4ca1-a1a2-6cecedd43e86)
 
 
 
@@ -109,22 +107,8 @@ int main() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##OUTPUT
-![alt text](<../Screenshot at 2025-05-07 11-49-51.png>)
+![Screenshot 2025-05-07 214806](https://github.com/user-attachments/assets/45522afd-e478-4df7-a715-7684de6810db)
 
 
 
@@ -158,8 +142,8 @@ printf("Running ps with execlp. Now with path specified\n");
 ```
 ## OUTPUT
 
+![Screenshot 2025-05-07 214935](https://github.com/user-attachments/assets/0b513844-9f66-46f2-a25c-5c75df0efbcf)
 
-![alt text](<../Screenshot at 2025-05-07 11-52-58.png>)
 
 
 
